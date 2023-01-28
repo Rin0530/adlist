@@ -1,0 +1,7 @@
+127.0.0.1 rt.gsspat.jp
+127.0.0.1 gcmtrk.goldspotmeda.cm
+127.0.0.1 click.u.send.microad.jp
+127.0.0.1 k.zucks.net
+127.0.0.1 uncn.jp
+127.0.0.1 d.amoad.com
+127.0.0.1 bnc.lt
