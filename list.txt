@@ -6,3 +6,11 @@
 127.0.0.1 d.amoad.com
 127.0.0.1 bnc.lt
 127.0.0.1 c1.nend.net
+127.0.0.1 pm.yahoo.co.jp
+127.0.0.1 trace.popin.cc
+127.0.0.1 click.rfp.fount.jp
+127.0.0.1 cat.jp2.as.criteo.com
+127.0.0.1 mechacomic.jp
+127.0.0.1 piccoma.com
+127.0.0.1 jp.piccoma.com
+127.0.0.1 r1-usc.zemanta.com
