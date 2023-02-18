@@ -14,3 +14,4 @@
 127.0.0.1 piccoma.com
 127.0.0.1 jp.piccoma.com
 127.0.0.1 r1-usc.zemanta.com
+127.0.0.1 spnativeapi.i-mobile.co.jp
